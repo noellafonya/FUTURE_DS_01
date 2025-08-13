@@ -1,4 +1,4 @@
-Here’s your edited README to match **what we actually did together** and the **tools we used** for the e-commerce sales dashboard project.
+
 
 ---
 
