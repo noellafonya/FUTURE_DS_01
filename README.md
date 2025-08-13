@@ -64,9 +64,9 @@ The objective was to analyze e-commerce sales data to identify **best-selling pr
 
 ## 📄 Files in This Repository
 
-* `Ecommerce_sales.pdf` – PDF export of the dashboard
-* `superstore.pbix` – Power BI project file
-* `cleaned_superstore.csv` 
+* `ecommerce_store.pdf` – PDF export of the dashboard
+* `ecommerce_store.pbix` – Power BI project file
+* `superstore.csv` 
   
 
 ---
